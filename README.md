@@ -263,7 +263,7 @@ After training, export and save:
 
 ## Team
 
-**TKNR** — FSL / Siamese Network research group.
+**TKNR**
 
 **Collaborator:** Fahim Nafis
 
