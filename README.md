@@ -3,7 +3,8 @@
 A web-based Network Intrusion Detection System (NIDS) that uses **Few-Shot Learning (FSL)** via a **Siamese Neural Network** to classify network traffic with minimal labelled examples.
 
 Built on the **CICIDS2017** dataset and presented through a **FastAPI** backend + **Next.js** dashboard.
-
+Paper Link: https://ieeexplore.ieee.org/abstract/document/11416138
+Paper DOI: 10.1109/WF-PST65083.2025.00029
 ---
 
 ## Overview
